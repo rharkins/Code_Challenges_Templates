@@ -1,0 +1,6 @@
+[submodule "QA-Java-Automation_Code_Challenge_1_Stub"]
+	path = QA-Java-Automation_Code_Challenge_1_Stub
+	url = https://github.com/rharkins/QA-Java-Automation_Code_Challenge_1_Stub
+[submodule "QA-Java-Automation_Code_Challenge_2_Stub"]
+	path = QA-Java-Automation_Code_Challenge_2_Stub
+	url = https://github.com/rharkins/QA-Java-Automation_Code_Challenge_2_Stub
